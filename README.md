@@ -1,6 +1,6 @@
 # Mock Test Feature API
 
-Check out the postman file\n
+Check out the postman file.
 This project implements a mock test feature using Node.js, Express.js, and MongoDB. It allows users to fetch mock test questions, submit their answers, retrieve their history, and manage questions in the database.
 
 ---
